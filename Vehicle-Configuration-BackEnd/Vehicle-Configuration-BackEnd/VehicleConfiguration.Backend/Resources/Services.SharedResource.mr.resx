@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="footer.sitemap" xml:space="preserve">
+    <value>साइटमॅप</value>
+  </data>
+  <data name="footer.privacy" xml:space="preserve">
+    <value>गोपनीयता धोरण</value>
+  </data>
+  <data name="footer.terms" xml:space="preserve">
+    <value>सेवा अटी</value>
+  </data>
+  <data name="footer.contact" xml:space="preserve">
+    <value>आमच्याशी संपर्क साधा</value>
+  </data>
+  <data name="footer.support" xml:space="preserve">
+    <value>एंटरप्राइझ समर्थन</value>
+  </data>
+  <data name="language.english" xml:space="preserve">
+    <value>मराठी</value>
+  </data>
+  <data name="welcome.title" xml:space="preserve">
+    <value>आपल्या स्वप्नातील कार कॉन्फिगर करा</value>
+  </data>
+  <data name="welcome.subtitle" xml:space="preserve">
+    <value>आमची व्यापक प्रणाली आपल्याला व्यावसायिक वाहन कॉन्फिगरेशनसाठी आवश्यक असलेली प्रत्येक गोष्ट प्रदान करते, निवडीपासून इन्व्हॉइस निर्मितीपर्यंत.</value>
+  </data>
+  <data name="login.title" xml:space="preserve">
+    <value>परत स्वागत आहे</value>
+  </data>
+  <data name="login.subtitle" xml:space="preserve">
+    <value>V-CONF मध्ये प्रवेश करण्यासाठी साइन इन करा</value>
+  </data>
+  <data name="login.username" xml:space="preserve">
+    <value>वापरकर्तानाव</value>
+  </data>
+  <data name="login.usernamePlaceholder" xml:space="preserve">
+    <value>आपले वापरकर्तानाव प्रविष्ट करा</value>
+  </data>
+  <data name="login.password" xml:space="preserve">
+    <value>पासवर्ड</value>
+  </data>
+  <data name="login.passwordPlaceholder" xml:space="preserve">
+    <value>आपला पासवर्ड प्रविष्ट करा</value>
+  </data>
+  <data name="login.forgotPassword" xml:space="preserve">
+    <value>पासवर्ड विसरलात?</value>
+  </data>
+  <data name="login.signIn" xml:space="preserve">
+    <value>साइन इन करा</value>
+  </data>
+  <data name="login.orContinueWith" xml:space="preserve">
+    <value>किंवा यासह पुढे जा</value>
+  </data>
+  <data name="navbar.home" xml:space="preserve">
+    <value>मुख्यपृष्ठ</value>
+  </data>
+  <data name="navbar.aboutUs" xml:space="preserve">
+    <value>आमच्याबद्दल</value>
+  </data>
+  <data name="navbar.contactUs" xml:space="preserve">
+    <value>संपर्क साधा</value>
+  </data>
+  <data name="navbar.signIn" xml:space="preserve">
+    <value>साइन इन</value>
+  </data>
+  <data name="navbar.registerCompany" xml:space="preserve">
+    <value>कंपनी नोंदणी</value>
+  </data>
+  <data name="navbar.dashboard" xml:space="preserve">
+    <value>डॅशबोर्ड</value>
+  </data>
+  <data name="navbar.logout" xml:space="preserve">
+    <value>लॉग आउट</value>
+  </data>
+  <data name="contact.title" xml:space="preserve">
+    <value>आमच्याशी संपर्क साधा</value>
+  </data>
+  <data name="contact.subtitle" xml:space="preserve">
+    <value>आम्हाला मदत करायला आवडेल!</value>
+  </data>
+  <data name="contact.addressLabel" xml:space="preserve">
+    <value>पत्ता</value>
+  </data>
+  <data name="contact.addressValue" xml:space="preserve">
+    <value>१२३, इनोव्हेशन लॅब, टेक सिटी, पुणे, महाराष्ट्र</value>
+  </data>
+  <data name="contact.emailLabel" xml:space="preserve">
+    <value>ईमेल</value>
+  </data>
+  <data name="contact.phoneLabel" xml:space="preserve">
+    <value>फोन</value>
+  </data>
+  <data name="contact.formTitle" xml:space="preserve">
+    <value>आम्हाला संदेश पाठवा</value>
+  </data>
+  <data name="contact.formSubtitle" xml:space="preserve">
+    <value>आम्ही शक्य तितक्या लवकर आपल्याशी संपर्क साधू!</value>
+  </data>
+  <data name="contact.namePlaceholder" xml:space="preserve">
+    <value>आपले नाव</value>
+  </data>
+  <data name="contact.emailPlaceholder" xml:space="preserve">
+    <value>आपला ईमेल</value>
+  </data>
+  <data name="contact.messagePlaceholder" xml:space="preserve">
+    <value>आपला संदेश इथे लिहा...</value>
+  </data>
+  <data name="contact.sendButton" xml:space="preserve">
+    <value>संदेश पाठवा</value>
+  </data>
+  <data name="features.vehicleSelection.title" xml:space="preserve">
+    <value>वाहन निवड</value>
+  </data>
+  <data name="features.vehicleSelection.desc" xml:space="preserve">
+    <value>विविध विभागांतून वाहने निवडा, लहान कार ते लक्झरीपर्यंत.</value>
+  </data>
+  <data name="features.customConfig.title" xml:space="preserve">
+    <value>सानुकूल कॉन्फिगरेशन</value>
+  </data>
+  <data name="features.customConfig.desc" xml:space="preserve">
+    <value>कारचे भाग आणि ॲक्सेसरीज सानुकूलित करा, इंजिनपासून ते अंतर्गत सजावटीपर्यंत.</value>
+  </data>
+  <data name="features.invoiceGen.title" xml:space="preserve">
+    <value>इन्व्हॉइस निर्मिती</value>
+  </data>
+  <data name="features.invoiceGen.desc" xml:space="preserve">
+    <value>आपल्या ऑर्डरसाठी स्वयंचलितपणे तपशीलवार इन्व्हॉइस तयार करा.</value>
+  </data>
+  <data name="features.securePlatform.title" xml:space="preserve">
+    <value>सुरक्षित प्लॅटफॉर्म</value>
+  </data>
+  <data name="features.securePlatform.desc" xml:space="preserve">
+    <value>Enterprise-grade security with user authentication and data protection.</value>
+  </data>
+  <data name="registration.title" xml:space="preserve">
+    <value>कंपनी नोंदणी</value>
+  </data>
+  <data name="registration.subtitle" xml:space="preserve">
+    <value>खाते तयार करण्यासाठी आपली कंपनीची माहिती प्रविष्ट करा</value>
+  </data>
+  <data name="registration.companyName" xml:space="preserve">
+    <value>कंपनीचे नाव</value>
+  </data>
+  <data name="registration.companyNamePlaceholder" xml:space="preserve">
+    <value>कंपनीचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="registration.registrationNo" xml:space="preserve">
+    <value>नोंदणी क्रमांक</value>
+  </data>
+  <data name="registration.registrationNoPlaceholder" xml:space="preserve">
+    <value>नोंदणी क्रमांक प्रविष्ट करा</value>
+  </data>
+  <data name="registration.holdingType" xml:space="preserve">
+    <value>होल्डिंग प्रकार</value>
+  </data>
+  <data name="registration.addressLine1" xml:space="preserve">
+    <value>पत्ता ओळ १</value>
+  </data>
+  <data name="registration.addressLine1Placeholder" xml:space="preserve">
+    <value>इमारत/मजला</value>
+  </data>
+  <data name="registration.addressLine2" xml:space="preserve">
+    <value>पत्ता ओळ २</value>
+  </data>
+  <data name="registration.addressLine2Placeholder" xml:space="preserve">
+    <value>रस्ता/क्षेत्र</value>
+  </data>
+  <data name="registration.city" xml:space="preserve">
+    <value>शहर</value>
+  </data>
+  <data name="registration.state" xml:space="preserve">
+    <value>राज्य</value>
+  </data>
+  <data name="registration.pin" xml:space="preserve">
+    <value>पिन कोड</value>
+  </data>
+  <data name="registration.authName" xml:space="preserve">
+    <value>अधिकृत व्यक्तीचे नाव</value>
+  </data>
+  <data name="registration.authTel" xml:space="preserve">
+    <value>दूरध्वनी</value>
+  </data>
+  <data name="registration.email" xml:space="preserve">
+    <value>ईमेल</value>
+  </data>
+  <data name="registration.username" xml:space="preserve">
+    <value>वापरकर्तानाव</value>
+  </data>
+  <data name="registration.password" xml:space="preserve">
+    <value>पासवर्ड</value>
+  </data>
+  <data name="registration.confirmPassword" xml:space="preserve">
+    <value>पासवर्डची पुष्टी करा</value>
+  </data>
+  <data name="registration.registerButton" xml:space="preserve">
+    <value>नोंदणी करा</value>
+  </data>
+  <data name="registration.alreadyHaveAccount" xml:space="preserve">
+    <value>आधीच खाते आहे का?</value>
+  </data>
+  <data name="registration.signInLink" xml:space="preserve">
+    <value>साइन इन करा</value>
+  </data>
+</root>

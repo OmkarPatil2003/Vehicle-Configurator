@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="footer.sitemap" xml:space="preserve">
+    <value>Plan du site</value>
+  </data>
+  <data name="footer.privacy" xml:space="preserve">
+    <value>Politique de confidentialité</value>
+  </data>
+  <data name="footer.terms" xml:space="preserve">
+    <value>Conditions d'utilisation</value>
+  </data>
+  <data name="footer.contact" xml:space="preserve">
+    <value>Contactez-nous</value>
+  </data>
+  <data name="footer.support" xml:space="preserve">
+    <value>Support Entreprise</value>
+  </data>
+  <data name="language.english" xml:space="preserve">
+    <value>Français</value>
+  </data>
+  <data name="welcome.title" xml:space="preserve">
+    <value>Configurez la voiture de vos rêves</value>
+  </data>
+  <data name="welcome.subtitle" xml:space="preserve">
+    <value>Notre système complet fournit tout ce dont vous avez besoin pour la configuration professionnelle de véhicules, de la sélection à la génération de factures.</value>
+  </data>
+  <data name="login.title" xml:space="preserve">
+    <value>Bon retour</value>
+  </data>
+  <data name="login.subtitle" xml:space="preserve">
+    <value>Connectez-vous pour accéder à V-CONF</value>
+  </data>
+  <data name="login.username" xml:space="preserve">
+    <value>Nom d'utilisateur</value>
+  </data>
+  <data name="login.usernamePlaceholder" xml:space="preserve">
+    <value>Entrez votre nom d'utilisateur</value>
+  </data>
+  <data name="login.password" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="login.passwordPlaceholder" xml:space="preserve">
+    <value>Entrez votre mot de passe</value>
+  </data>
+  <data name="login.forgotPassword" xml:space="preserve">
+    <value>Mot de passe oublié ?</value>
+  </data>
+  <data name="login.signIn" xml:space="preserve">
+    <value>Se connecter</value>
+  </data>
+  <data name="login.orContinueWith" xml:space="preserve">
+    <value>Ou continuer avec</value>
+  </data>
+  <data name="navbar.home" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="navbar.aboutUs" xml:space="preserve">
+    <value>À propos</value>
+  </data>
+  <data name="navbar.contactUs" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="navbar.signIn" xml:space="preserve">
+    <value>Connexion</value>
+  </data>
+  <data name="navbar.registerCompany" xml:space="preserve">
+    <value>Inscrire l'entreprise</value>
+  </data>
+  <data name="navbar.dashboard" xml:space="preserve">
+    <value>Tableau de bord</value>
+  </data>
+  <data name="navbar.logout" xml:space="preserve">
+    <value>Déconnexion</value>
+  </data>
+  <data name="contact.title" xml:space="preserve">
+    <value>Contactez-nous</value>
+  </data>
+  <data name="contact.subtitle" xml:space="preserve">
+    <value>Nous serions ravis de vous aider !</value>
+  </data>
+  <data name="contact.addressLabel" xml:space="preserve">
+    <value>Adresse</value>
+  </data>
+  <data name="contact.addressValue" xml:space="preserve">
+    <value>123, Laboratoire d'Innovation, Tech City</value>
+  </data>
+  <data name="contact.emailLabel" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="contact.phoneLabel" xml:space="preserve">
+    <value>Téléphone</value>
+  </data>
+  <data name="contact.formTitle" xml:space="preserve">
+    <value>Envoyez-nous un message</value>
+  </data>
+  <data name="contact.formSubtitle" xml:space="preserve">
+    <value>Nous vous répondrons dès que possible !</value>
+  </data>
+  <data name="contact.namePlaceholder" xml:space="preserve">
+    <value>Votre nom</value>
+  </data>
+  <data name="contact.emailPlaceholder" xml:space="preserve">
+    <value>Votre email</value>
+  </data>
+  <data name="contact.messagePlaceholder" xml:space="preserve">
+    <value>Écrivez votre message ici...</value>
+  </data>
+  <data name="contact.sendButton" xml:space="preserve">
+    <value>Envoyer le message</value>
+  </data>
+  <data name="features.vehicleSelection.title" xml:space="preserve">
+    <value>Sélection de véhicule</value>
+  </data>
+  <data name="features.vehicleSelection.desc" xml:space="preserve">
+    <value>Choisissez parmi différents segments, des petites voitures aux véhicules de luxe.</value>
+  </data>
+  <data name="features.customConfig.title" xml:space="preserve">
+    <value>Configuration personnalisée</value>
+  </data>
+  <data name="features.customConfig.desc" xml:space="preserve">
+    <value>Personnalisez les pièces et accessoires, du moteur à l'intérieur.</value>
+  </data>
+  <data name="features.invoiceGen.title" xml:space="preserve">
+    <value>Génération de facture</value>
+  </data>
+  <data name="features.invoiceGen.desc" xml:space="preserve">
+    <value>Générez automatiquement des factures détaillées pour vos commandes.</value>
+  </data>
+  <data name="features.securePlatform.title" xml:space="preserve">
+    <value>Plateforme sécurisée</value>
+  </data>
+  <data name="features.securePlatform.desc" xml:space="preserve">
+    <value>Plateforme de niveau entreprise avec sécurité avancée et protection des données.</value>
+  </data>
+  <data name="registration.title" xml:space="preserve">
+    <value>Enregistrement de l'entreprise</value>
+  </data>
+  <data name="registration.subtitle" xml:space="preserve">
+    <value>Entrez les détails de votre entreprise pour créer un compte</value>
+  </data>
+  <data name="registration.companyName" xml:space="preserve">
+    <value>Nom de l'entreprise</value>
+  </data>
+  <data name="registration.companyNamePlaceholder" xml:space="preserve">
+    <value>Entrez le nom de l'entreprise</value>
+  </data>
+  <data name="registration.registrationNo" xml:space="preserve">
+    <value>Numéro d'enregistrement</value>
+  </data>
+  <data name="registration.registrationNoPlaceholder" xml:space="preserve">
+    <value>Entrez le numéro d'enregistrement</value>
+  </data>
+  <data name="registration.holdingType" xml:space="preserve">
+    <value>Type de détention</value>
+  </data>
+  <data name="registration.addressLine1" xml:space="preserve">
+    <value>Adresse Ligne 1</value>
+  </data>
+  <data name="registration.addressLine1Placeholder" xml:space="preserve">
+    <value>Bâtiment/Étage</value>
+  </data>
+  <data name="registration.addressLine2" xml:space="preserve">
+    <value>Adresse Ligne 2</value>
+  </data>
+  <data name="registration.addressLine2Placeholder" xml:space="preserve">
+    <value>Rue/Zone</value>
+  </data>
+  <data name="registration.city" xml:space="preserve">
+    <value>Ville</value>
+  </data>
+  <data name="registration.state" xml:space="preserve">
+    <value>État</value>
+  </data>
+  <data name="registration.pin" xml:space="preserve">
+    <value>Code PIN</value>
+  </data>
+  <data name="registration.authName" xml:space="preserve">
+    <value>Nom de la personne autorisée</value>
+  </data>
+  <data name="registration.authTel" xml:space="preserve">
+    <value>Téléphone</value>
+  </data>
+  <data name="registration.email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="registration.username" xml:space="preserve">
+    <value>Nom d'utilisateur</value>
+  </data>
+  <data name="registration.password" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="registration.confirmPassword" xml:space="preserve">
+    <value>Confirmer le mot de passe</value>
+  </data>
+  <data name="registration.registerButton" xml:space="preserve">
+    <value>S'inscrire</value>
+  </data>
+  <data name="registration.alreadyHaveAccount" xml:space="preserve">
+    <value>Vous avez déjà un compte ?</value>
+  </data>
+  <data name="registration.signInLink" xml:space="preserve">
+    <value>Se connecter</value>
+  </data>
+</root>
