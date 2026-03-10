@@ -89,12 +89,6 @@ The application follows a **microservices-based architecture** with secure RESTf
 
 ---
 
-### Clone the Repository
-```bash
-git clone https://github.com/ManasTare/v-conf.git
-cd vehicle-configurator
-```
-
 ## Contribution Guidelines
 - Fork the repository
 - Create a feature branch
