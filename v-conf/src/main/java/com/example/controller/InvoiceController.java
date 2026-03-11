@@ -41,33 +41,16 @@ public class InvoiceController {
         dto.setUserId(user.getId());
 
         // ---------------------------------------------------------
-        // MICROSERVICE ARCHITECTURE FLOW
+        // MONOLITHIC ARCHITECTURE FLOW
         // ---------------------------------------------------------
         try {
-            String microserviceUrl = "http://localhost:9003/api/invoice/confirm";
-            System.out.println("Calling Invoice Microservice at: " + microserviceUrl);
-
-            String response = restTemplate.postForObject(
-                    microserviceUrl,
-                    dto,
-                    String.class);
-
-            return ResponseEntity.ok(response);
-
+            System.out.println("Switching to Legacy Monolithic Logic...");
+            invoiceService.generateInvoice(dto);
+            return ResponseEntity.ok("Invoice generated (Legacy Fallback)");
         } catch (Exception ex) {
-            System.err.println("Failed to call Invoice Microservice: " + ex.getMessage());
+            System.err.println("Failed to generate invoice: " + ex.getMessage());
             ex.printStackTrace();
-
-            return ResponseEntity.status(500).body("Error Generating Invoice via Microservice: " + ex.getMessage());
-
-            // ---------------------------------------------------------
-            // LEGACY / MONOLITIC FALLBACK FLOW (Reference Only)
-            // ---------------------------------------------------------
-            /*
-             * System.out.println("Switching to Legacy Monolithic Logic...");
-             * invoiceService.generateInvoice(dto);
-             * return ResponseEntity.ok("Invoice generated (Legacy Fallback)");
-             */
+            return ResponseEntity.status(500).body("Error Generating Invoice: " + ex.getMessage());
         }
     }
 }

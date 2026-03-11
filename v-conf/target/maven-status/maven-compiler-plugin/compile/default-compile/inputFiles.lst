@@ -1,88 +1,88 @@
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\InvoiceHeaderRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\I18nController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\UserRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\auth\SecurityConfig.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\configuration\InternationalizationConfig.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\ManufacturerDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\ComponentDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\EmailServiceImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\DefaultConfigDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\SgMfgMasterRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\configuration\RestTemplateConfig.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\VehicleDefaultConfig.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicleManagerImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\AlternateComponentDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\ModelDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\RegistrationI18nDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\User.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\RegistrationPdfService.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\configuration\CorsConfig.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicalDetails.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\InvoiceController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\InvoiceHeader.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\UserController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\OptionDto.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\InvoiceDetail.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\VConfApplication.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\DefaultConfigurationDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\EmailSender.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\DefaultConfigManagerImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\DefaultConfigController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\VehicleConfigController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\exception\GlobalExceptionHandler.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\NavbarI18nDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\Component.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\VehicleDetailRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\EmailService.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\AlternateComponentRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\VehicleDetail.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\ManufacturerRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\UserManager.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\ComponentRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\ContactI18nDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\WelcomeResponseDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\LoginRequest.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\Invoicemanager.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\InvoiceManagerImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\WelcomeService.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicleManager.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\DefaultConfigResponseDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\FooterI18nDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\RegisterController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\DefaultConfigManager.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\SegmentDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\AlternateComponentManager.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\UserManagerImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\ForgotPasswordDto.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\InvoiceStatus.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\UserServiceImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\ModelRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\SegmentRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\auth\JwtAuthFilter.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\LoginI18nDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\WelcomeI18nDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\auth\JwtUtil.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\IsConfigurationDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\SgMfgMaster.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\aop\EmailAuditAspect.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\AlternateComponentManagerImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicalDetailImpl.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\FeaturesI18nDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\Segment.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\WelcomeController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\ErrorResponse.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\AlternateComponentMaster.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\DefaultConfigRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\aop\EmailAudit.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\AlternateComponentController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\AlternateComponentSaveDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\InvoicePDFExporter.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\ComponentDropdownDto.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\Manufacturer.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\DefaultConfigService.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\dto\InvoiceRequestDTO.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\repository\InvoiceDetailRepository.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\controller\VehicleDetailController.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\Model.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\service\UserService.java
-E:\Final v-conf Full\v-conf\src\main\java\com\example\models\CompType.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\ErrorResponse.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\SgMfgMasterRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\Segment.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\VehicleConfigController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\AlternateComponentMaster.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\aop\EmailAuditAspect.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\AlternateComponentManagerImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\NavbarI18nDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\InvoiceManagerImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicleManager.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\WelcomeResponseDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\RegistrationI18nDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\configuration\RestTemplateConfig.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\DefaultConfigRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\auth\JwtUtil.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\UserServiceImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\WelcomeService.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\Invoicemanager.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\auth\SecurityConfig.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\LoginI18nDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\CompType.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\aop\EmailAudit.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\AlternateComponentController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\InvoiceController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\DefaultConfigDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\DefaultConfigurationDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\IsConfigurationDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\configuration\InternationalizationConfig.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\AlternateComponentManager.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\SegmentRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\UserService.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\ComponentDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\SegmentDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\DefaultConfigService.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\User.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\exception\GlobalExceptionHandler.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\ComponentRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\EmailServiceImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\Component.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\EmailSender.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\VehicleDetailController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\InvoiceDetailRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicalDetailImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\I18nController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\SgMfgMaster.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\InvoiceHeaderRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\auth\JwtAuthFilter.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\LoginRequest.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicleManagerImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\InvoiceStatus.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\ManufacturerRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\InvoicePDFExporter.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\VehicleDetail.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\InvoiceDetail.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\UserController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\EmailService.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\DefaultConfigResponseDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\DefaultConfigManager.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\ModelDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\InvoiceRequestDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\FooterI18nDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\configuration\CorsConfig.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\VehicleDetailRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\Manufacturer.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\FeaturesI18nDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\OptionDto.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\WelcomeController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\ContactI18nDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\InvoiceHeader.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\UserRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\RegisterController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\VConfApplication.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\RegistrationPdfService.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\UserManagerImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\AlternateComponentDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\ForgotPasswordDto.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\UserManager.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\VehicalDetails.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\AlternateComponentSaveDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\ManufacturerDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\Model.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\controller\DefaultConfigController.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\ModelRepository.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\ComponentDropdownDto.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\dto\WelcomeI18nDTO.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\models\VehicleDefaultConfig.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\service\DefaultConfigManagerImpl.java
+D:\Final v-conf Full\Final v-conf Full\v-conf\src\main\java\com\example\repository\AlternateComponentRepository.java

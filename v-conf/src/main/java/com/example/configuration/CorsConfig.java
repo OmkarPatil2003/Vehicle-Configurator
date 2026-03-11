@@ -1,6 +1,5 @@
 package com.example.configuration;
 
-
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
@@ -8,24 +7,23 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Configuration
 public class CorsConfig implements WebMvcConfigurer {
 
-    @Override
-    public void addCorsMappings(CorsRegistry registry) {
+        @org.springframework.beans.factory.annotation.Value("${frontend.url}")
+        private String frontendUrl;
 
-        registry.addMapping("/**")
-                .allowedOrigins(
-                        "http://localhost:5173",
-                        "http://localhost:3000",
-                        "http://localhost:5173"
+        @Override
+        public void addCorsMappings(CorsRegistry registry) {
 
-                )
-                .allowedMethods(
-                        "GET",
-                        "POST",
-                        "PUT",
-                        "DELETE",
-                        "OPTIONS"
-                )
-                .allowedHeaders("*")
-                .allowCredentials(true);
-    }
+                String[] allowedOrigins = frontendUrl.split(",");
+
+                registry.addMapping("/**")
+                                .allowedOrigins(allowedOrigins)
+                                .allowedMethods(
+                                                "GET",
+                                                "POST",
+                                                "PUT",
+                                                "DELETE",
+                                                "OPTIONS")
+                                .allowedHeaders("*")
+                                .allowCredentials(true);
+        }
 }

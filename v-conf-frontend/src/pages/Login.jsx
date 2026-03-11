@@ -105,12 +105,12 @@ const Login = () => {
     };
 
     const handleGoogleSSO = () => {
-        window.location.href = "http://localhost:8080/oauth2/authorization/google";
+        window.location.href = `${import.meta.env.VITE_API_TARGET || 'http://localhost:8080'}/oauth2/authorization/google`;
     };
 
     const handleFacebookSSO = () => {
         window.location.href =
-            "http://localhost:8080/oauth2/authorization/facebook";
+            `${import.meta.env.VITE_API_TARGET || 'http://localhost:8080'}/oauth2/authorization/facebook`;
     };
 
     return (
